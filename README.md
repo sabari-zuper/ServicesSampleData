@@ -16,7 +16,7 @@ Or add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourcompany/ServicesSampleData", from: "1.0.0")
+    .package(url: "https://github.com/sabari-zuper/ServicesSampleData.git", from: "1.0.0")
 ]
 ```
 
