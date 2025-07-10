@@ -27,6 +27,8 @@ Build a **Listing and Detail Screen** using SwiftUI that displays a list of serv
 - **State Management:** Proper use of @State, @StateObject, @ObservedObject
 - **No External Libraries:** Use only native iOS frameworks
 - **Use Tabler Icons:** https://tablericons.com
+- **Maps:** Use default AppleMaps with marker(Harcode the coordinates)
+
 
 
 ## Screen Specifications
