@@ -4,6 +4,11 @@
 
 Build a **Listing and Detail Screen** using SwiftUI that displays a list of services with search functionality and detailed views. The app should demonstrate proficiency in modern iOS development patterns, including SwiftUI, Combine framework, and native iOS design principles.
 
+| List | Details |
+|---------|---------|
+|![image (1)](https://github.com/user-attachments/assets/16683613-ff6d-4642-b151-d3e7a18fe50e)|![image (2)](https://github.com/user-attachments/assets/bfe16b7a-235e-4e5c-8873-4cbcb9e4043d)|
+
+
 **Primary Evaluation Focus** 
 - SwiftUI Implementation 
 - List Management 
@@ -21,6 +26,8 @@ Build a **Listing and Detail Screen** using SwiftUI that displays a list of serv
 - **Architecture:** MVVM pattern with proper state management
 - **State Management:** Proper use of @State, @StateObject, @ObservedObject
 - **No External Libraries:** Use only native iOS frameworks
+- **Use Tabler Icons:** https://tablericons.com
+
 
 ## Screen Specifications
 
