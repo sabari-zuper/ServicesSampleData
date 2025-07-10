@@ -82,23 +82,6 @@ struct Service: Identifiable, Codable, Hashable {
    - "Yesterday, 3:00 PM"
    - "15/11/2024, 2:30 PM"
 
-## Random Data Generation
-
-The package generates realistic random combinations of:
-
-**Service Types (20 options):**
-- Interior Design Project, HVAC Maintenance, Garden Landscaping, Plumbing Repair, etc.
-
-**Customer Names (20 options):**
-- ABC Manufacturing, Johnson Residence, Tech Solutions Inc, Downtown Office Complex, etc.
-
-**Date Distribution:**
-- Today: 20%
-- Tomorrow: 10% 
-- Yesterday: 10%
-- Next few days: 30%
-- Past dates: 20%
-- Future dates: 10%
 
 **Features:**
 - Unique service/customer combinations (no duplicates)
