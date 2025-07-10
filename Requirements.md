@@ -4,7 +4,12 @@
 
 Build a **Listing and Detail Screen** using SwiftUI that displays a list of services with search functionality and detailed views. The app should demonstrate proficiency in modern iOS development patterns, including SwiftUI, Combine framework, and native iOS design principles.
 
-**Primary Evaluation Focus** - SwiftUI Implementation • List Management • Search with Combine • Navigation Patterns • Pull-to-Refresh
+**Primary Evaluation Focus** 
+- SwiftUI Implementation 
+- List Management 
+- Search with Combine 
+- Navigation Patterns 
+- Pull-to-Refresh
 
 ## Technical Requirements
 
