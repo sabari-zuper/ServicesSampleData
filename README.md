@@ -9,7 +9,7 @@ A minimal Swift Package Manager library that provides randomly generated sample 
 Add this package to your Xcode project:
 
 1. File → Add Package Dependencies
-2. Enter package URL: `https://github.com/yourcompany/ServicesSampleData`
+2. Enter package URL: `https://github.com/sabari-zuper/ServicesSampleData.git`
 3. Select version and add to target
 
 Or add to your `Package.swift`:
