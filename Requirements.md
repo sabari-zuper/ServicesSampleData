@@ -19,6 +19,7 @@ Build a **Listing and Detail Screen** using SwiftUI that displays a list of serv
 ## Technical Requirements
 
 - **Minimum Deployment Target:** iOS 16.0
+- **SPM:** Use SPM package, don't drag and drop the package
 - **UI Framework:** SwiftUI (use NavigationStack, List, etc.)
 - **Search Implementation:** Combine framework with debounce functionality (300ms delay)
 - **Date Formatting:** Smart formatting - Today, Tomorrow, Yesterday, dd/mm/yyyy
