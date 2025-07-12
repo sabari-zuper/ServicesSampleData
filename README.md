@@ -2,6 +2,8 @@
 
 A minimal Swift Package Manager library that provides randomly generated sample data for iOS SwiftUI interview tasks.
 
+Please check the Requirements here - https://github.com/sabari-zuper/ServicesSampleData/blob/main/Requirements.md
+
 ## Installation
 
 ### Swift Package Manager
